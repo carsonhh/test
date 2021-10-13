@@ -1,7 +1,3 @@
-::: {#page}
-::: {#main .aui-page-panel}
-::: {#main-header}
-::: {#breadcrumb-section}
 1.  [CHPC Guide](./index.md)
 2.  [Getting Started with UCGD Resources at
     CHPC](./Getting_Started_with_UCGD_Resources_at_CHPC.md)
