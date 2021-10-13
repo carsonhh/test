@@ -1,8 +1,20 @@
-1.  [CHPC Guide](./index.md)
-2.  [Getting Started with UCGD Resources at
-    CHPC](./Getting_Started_with_UCGD_Resources_at_CHPC.md)
-3.  [Transfering Data](./Transfering_Data.md)
-
 ::: tip
-# [ CHPC Guide : Globus ]
+This is a tip
+
+```cpp
+// You can even add code inside a container
+while (true) {
+  cout << "Markdown is nice!" << endl;
+}
+```
+:::
+
+::: warning
+This is a warning with an image
+
+![Warning image](./assets/warning.png)
+:::
+
+::: danger That is my middle name
+This is a dangerous warning with unicode emoji 🚨
 :::
