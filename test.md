@@ -4,7 +4,7 @@
 3.  [Transfering Data](./Transfering_Data.md)
 :::
 
-# [ CHPC Guide : Globus ]{#title-text} {#title-heading .pagetitle}
+# [ CHPC Guide : Globus ]
 :::
 
 ::: {#content .view}
